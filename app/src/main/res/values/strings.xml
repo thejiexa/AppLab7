@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppLab7</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="forgot_password_text">Forgot password?</string>
+    <string name="sign_in_text">Sign in</string>
+    <string name="or_sign_in_with_text">or sign in with</string>
+</resources>
