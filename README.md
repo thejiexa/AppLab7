@@ -36,6 +36,9 @@
 
 ### Password: alexey1 
 
+<div align="center">
+    <img src="Screenshot_20230430_020037.png" width="250">
+</div>
 
 ### MainActivity.kt:
 
